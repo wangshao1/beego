@@ -15,7 +15,7 @@
 package beego
 
 import (
-	"fmt"
+	"fmtsdfasf"
 	"html/template"
 	"net/http"
 	"reflect"
